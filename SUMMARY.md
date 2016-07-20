@@ -13,5 +13,5 @@
    * [The Dynamo User Interface](02_Hello-Dynamo/the_dynamo_user_interface.md)
    * [The Workspace](02_Hello-Dynamo/the_workspace.md)
    * [the workflow](02_Hello-Dynamo/the_workflow.md)
-   * file types and management
+   * [file types and management](02_Hello-Dynamo/file_types_and_management.md)
 
