@@ -9,4 +9,5 @@
    * [preface](01_Introduction/preface.md)
    * [introduction](01_Introduction/introduction.md)
 * [Hello-Dynamo](02_Hello-Dynamo/hello_dynamo.md)
+   * Installing and Launching Dynamo
 
