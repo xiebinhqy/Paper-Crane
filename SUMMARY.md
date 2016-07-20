@@ -11,5 +11,5 @@
 * [Hello-Dynamo](02_Hello-Dynamo/hello_dynamo.md)
    * [Installing and Launching Dynamo](02_Hello-Dynamo/installing_and_launching_dynamo.md)
    * [The Dynamo User Interface](02_Hello-Dynamo/the_dynamo_user_interface.md)
-   * The Workspace
+   * [The Workspace](02_Hello-Dynamo/the_workspace.md)
 
