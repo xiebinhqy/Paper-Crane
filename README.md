@@ -1,6 +1,8 @@
 #The Dynamo Primer
 ##For Dynamo v9.0
 
+
+
 ![Dynamo Logo](images/dynamo_logo_dark-trim.png)
 
 > Dynamo is an open source visual programming platform for designers.
