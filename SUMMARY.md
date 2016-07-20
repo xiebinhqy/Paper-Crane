@@ -10,4 +10,5 @@
    * [introduction](01_Introduction/introduction.md)
 * [Hello-Dynamo](02_Hello-Dynamo/hello_dynamo.md)
    * [Installing and Launching Dynamo](02_Hello-Dynamo/installing_and_launching_dynamo.md)
+   * The Dynamo User Interface
 
