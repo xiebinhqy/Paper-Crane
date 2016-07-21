@@ -27,4 +27,13 @@
    * [Logic](04_The-Building-Blocks-of-Programs/4-3_logic.md)
    * [Strings](04_The-Building-Blocks-of-Programs/4-4_strings.md)
    * [Color](04_The-Building-Blocks-of-Programs/4-5_color.md)
+* [Geometry For Computational Design](05_Geometry-for-Computational-Design/5_geometry-for-computational-design.md)
+   * [Geometry Overview](05_Geometry-for-Computational-Design/5-1_geometry-overview.md)
+   * [Vectors](05_Geometry-for-Computational-Design/5-2_vectors.md)
+   * [Points](05_Geometry-for-Computational-Design/5-3_points.md)
+   * [Curves](05_Geometry-for-Computational-Design/5-4_curves.md)
+   * [Surfaces](05_Geometry-for-Computational-Design/5-5_surfaces.md)
+   * [Solids](05_Geometry-for-Computational-Design/5-6_solids.md)
+   * [Meshes](05_Geometry-for-Computational-Design/5-7_meshes.md)
+   * [Importing Geometry](05_Geometry-for-Computational-Design/5-8_importing.md)
 
