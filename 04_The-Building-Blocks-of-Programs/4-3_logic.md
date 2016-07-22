@@ -7,6 +7,8 @@ Numeric variables can store a whole range of different numbers. Boolean variable
 ###Conditional Statements
 The "If" statement is a key concept in programming: "If *this* is true, then *that* happens, otherwise *something else* happens. The resulting action of the statement is driven by a boolean value. There are multiple ways to define an "If" statement in Dynamo:
 
+
+
 | Icon | Name | Syntax| Inputs | Outputs |
 | -- | -- | -- | -- | -- | -- |-- |
 | ![](../images/icons/DSCoreNodesUI-Logic-If-Large.png) | If | If | test, true, false | result|
