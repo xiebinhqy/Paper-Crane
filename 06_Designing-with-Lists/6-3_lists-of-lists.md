@@ -159,6 +159,9 @@ Transpose is a fundamental function when dealing with lists of lists. Just as in
 2. Using a *code block* value of 2, query the 3rd element in the main list.
 3. The *PolyCurve.ByPoints* gives us one curve, since only one list is connected to the node.
 
+
+
+
 ![Exercise](images/6-3/Exercise/A/00.png)
 > 1. A *List.Transpose* node will switch all of the items with all of the lists in a list of lists.  This sounds complicated, but it's the same logic as transpose in Microsoft Excel: switching columns with rows in a data structure.
 2. Notice the abstract result: the transpose changed the list structure from a 5 lists with 3 items each to 3 lists with 5 items each.
