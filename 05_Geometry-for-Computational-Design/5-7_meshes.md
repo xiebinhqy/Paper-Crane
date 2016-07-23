@@ -1,6 +1,8 @@
 ## Meshes
 In the field of computational modeling, Meshes are one of the most pervasive forms of representing 3D geometry. Mesh geometry can be a light-weight and flexible alternative to working with NURBS, and Meshes are used in everything from rendering and visualizations to digital fabrication and 3D printing. 
 
+
+
 ### What's a Mesh?
 A Mesh is a collection of quadrilaterals and triangles that represents a surface or solid geometry. Like Solids, the structure of a Mesh object includes vertices, edges, and faces. There are additional properties that make Meshes unique as well, such as normals.
 
