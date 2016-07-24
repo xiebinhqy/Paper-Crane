@@ -55,5 +55,5 @@
    * [Documenting](08_Dynamo-for-Revit/8-6_Documenting.md)
 * [Custom Nodes](09_Custom-Nodes/9_Custom-Nodes.md)
    * [Custom Nodes Instructions](09_Custom-Nodes/9-1_Introduction.md)
-   * Creating a Custom Node
+   * [Creating a Custom Node](09_Custom-Nodes/9-2_Creating.md)
 
