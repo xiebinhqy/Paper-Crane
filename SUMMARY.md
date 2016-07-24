@@ -57,5 +57,5 @@
    * [Custom Nodes Instructions](09_Custom-Nodes/9-1_Introduction.md)
    * [Creating a Custom Node](09_Custom-Nodes/9-2_Creating.md)
    * [Adding to Your Library](09_Custom-Nodes/9-3_Library.md)
-   * Python Node
+   * [Python Node](09_Custom-Nodes/9-4_Python.md)
 
