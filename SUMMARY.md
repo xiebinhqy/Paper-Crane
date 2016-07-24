@@ -61,4 +61,5 @@
    * [Python and Revit](09_Custom-Nodes/9-5_Python-Revit.md)
 * [Packages](10_Packages/10-Packages.md)
    * [Packages Instructions](10_Packages/10-1_Introduction.md)
+   * Package Case Study – Mesh Toolkit
 
