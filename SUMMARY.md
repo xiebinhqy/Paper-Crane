@@ -68,5 +68,4 @@
    * [What is Zero-Touch?](10_Packages/10-5_Zero-Touch.md)
 * [Dynamo Extension](11_Dynamo_Extension/dynamo extension.md)
 * [Appendix](Appendix/A_appendix.md)
-   * [Dynamo Introduce](Appendix/A-1_resources.md)
 
