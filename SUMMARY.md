@@ -67,5 +67,5 @@
    * [Publishing a Package](10_Packages/10-4_Publishing.md)
    * [What is Zero-Touch?](10_Packages/10-5_Zero-Touch.md)
 * [Dynamo Extension](11_Dynamo_Extension/dynamo extension.md)
-* Appendix
+* [Appendix](Appendix)
 
