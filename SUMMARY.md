@@ -79,4 +79,5 @@
    * [logic](Archive/logic.md)
    * [math](Archive/math.md)
    * [strings](Archive/strings.md)
+* Dynamo Primer Text
 
