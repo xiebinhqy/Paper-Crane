@@ -74,4 +74,5 @@
    * [Dynamo Example Files](Appendix/A-4_example-files.md)
 * [Archive](Archive/Instructions.md)
    * [color](Archive/color.md)
+   * core
 
