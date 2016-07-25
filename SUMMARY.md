@@ -79,5 +79,5 @@
    * [logic](Archive/logic.md)
    * [math](Archive/math.md)
    * [strings](Archive/strings.md)
-* [Dynamo Primer Text](Dynamo Primer Archive)
+* [Dynamo Primer Text](De_Dynamo Primer Archive/dynamo_primer_archive.md)
 
