@@ -72,4 +72,12 @@
    * [Index of Nodes](Appendix/A-2_index-of-nodes.md)
    * [Dynamo Packages](Appendix/A-3_packages.md)
    * [Dynamo Example Files](Appendix/A-4_example-files.md)
+* [Archive](Archive/Instructions.md)
+   * [color](Archive/color.md)
+   * [core](Archive/core.md)
+   * [data](Archive/data.md)
+   * [logic](Archive/logic.md)
+   * [math](Archive/math.md)
+   * [strings](Archive/strings.md)
+* [Dynamo Primer Text](De_Dynamo Primer Archive/dynamo_primer_archive.md)
 
